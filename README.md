@@ -1,2 +1,2 @@
 # DS-Assignment-05
-Multiple Linear Regression
+Multi Linear Regression
